@@ -1,0 +1,33 @@
+Class_Code,Book_Genre,Type_of_literature
+CN001F,Children,Fiction
+GL002F,General,Fiction
+CE003F,Crime,Fiction
+EG004F,Early Learning,Fiction
+HL005F,Historical,Fiction
+HR006F,Horror,Fiction
+MY007F,Mystery,Fiction
+PS008F,Picture Books,Fiction
+RE009F,Romance,Fiction
+SN010F,Science Fiction,Fiction
+SY011F,Short Story,Fiction
+WR012F,War,Fiction
+WN013F,Western,Fiction
+YT014F,Young Adult,Fiction
+BY001N,Biography,Non-fiction
+CS002N,Cultural Studies,Non-fiction
+ES003N,Economics,Non-fiction
+FV004N,Film & TV,Non-fiction
+FT005N,Fitness & Diet,Non-fiction
+HR006N,Humour,Non-fiction
+LS007N,Language Studies,Non-fiction
+LW008N,Law,Non-fiction
+MS009N,Management Techniques,Non-fiction
+MR010N,Memoir,Non-fiction
+ME011N,Music & Dance,Non-fiction
+NY012N,Natural History,Non-fiction
+PY013N,Philosophy,Non-fiction
+PG014N,Pregnancy & Parenting,Non-fiction
+RE015N,Reference,Non-fiction
+SE016N,Scripture,Non-fiction
+TY017N,Theology,Non-fiction
+TE018N,True Crime,Non-fiction
